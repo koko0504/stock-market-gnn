@@ -33,7 +33,7 @@ that static correlation structures miss.
 
 ## Stack
 
-PyTorch · NumPy · pandas · yfinance · NetworkX · scikit-learn
+PyTorch · NumPy · pandas · yfinance · NetworkX 
 
 ## Built from scratch
 
